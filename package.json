@@ -1,0 +1,26 @@
+{
+  "name": "superjs-cli-help",
+  "version": "0.8.0",
+  "description": "CLI tool to help SuperJS modules into a project.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/asleepinglion/superjs-cli-help"
+  },
+  "keywords": [
+    "SuperJS",
+    "CLI",
+    "Command",
+    "Line",
+    "Tool"
+  ],
+  "author": "Aaron Storck",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/asleepinglion/superjs-cli-help/issues"
+  },
+  "homepage": "https://github.com/asleepinglion/superjs-cli-help",
+  "dependencies": {
+
+  }
+}
