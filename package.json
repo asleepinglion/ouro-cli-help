@@ -1,14 +1,14 @@
 {
-  "name": "superjs-cli-help",
-  "version": "0.8.0",
-  "description": "CLI tool to help SuperJS modules into a project.",
+  "name": "ouro-cli-help",
+  "version": "0.9.0",
+  "description": "CLI tool to help Ouro modules into a project.",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/asleepinglion/superjs-cli-help"
+    "url": "https://github.com/asleepinglion/ouro-cli-help"
   },
   "keywords": [
-    "SuperJS",
+    "Ouro",
     "CLI",
     "Command",
     "Line",
@@ -17,9 +17,9 @@
   "author": "Aaron Storck",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/asleepinglion/superjs-cli-help/issues"
+    "url": "https://github.com/asleepinglion/ouro-cli-help/issues"
   },
-  "homepage": "https://github.com/asleepinglion/superjs-cli-help",
+  "homepage": "https://github.com/asleepinglion/ouro-cli-help",
   "dependencies": {
 
   }
